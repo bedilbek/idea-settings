@@ -1,0 +1,8 @@
+<application>
+  <component name="CPPToolchains" version="4">
+    <toolchains detectedVersion="5">
+      <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="Bedilbek" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="9308cf13-8db4-4f6b-af13-cdc2048d14e4" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
+    </toolchains>
+  </component>
+</application>
