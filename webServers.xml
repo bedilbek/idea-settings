@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="9308cf13-8db4-4f6b-af13-cdc2048d14e4" name="Bedilbek (9308cf13-8db4-4f6b-af13-cdc2048d14e4)" url="http:///">
-        <fileTransfer host="192.168.43.84" port="22" accessType="SFTP">
+        <fileTransfer host="sqldeveloper.local" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
